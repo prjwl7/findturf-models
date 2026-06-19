@@ -1,0 +1,7 @@
+pandas
+numpy
+xgboost
+stable-baselines3
+pytorch-forecasting
+polars
+streamlit
